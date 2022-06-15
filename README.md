@@ -10,7 +10,7 @@ Age & Gender Prediction Model Creation: Contains the code of the training and co
 <br>
 Face Detection: Age & Gender Detection: Final notebook encapsulating everything and working with images, videos and real-time webcams.
 
-![](Figures/Epochs Loss.png)
+![](Figures/EpochsLoss.png)
 
 # Students
 Joan Gracia 219176 <br>
