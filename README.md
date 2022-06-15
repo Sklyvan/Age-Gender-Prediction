@@ -10,7 +10,14 @@ Age & Gender Prediction Model Creation: Contains the code of the training and co
 <br>
 Face Detection: Age & Gender Detection: Final notebook encapsulating everything and working with images, videos and real-time webcams.
 
+![](Figures/Epochs Loss.png)
+
 # Students
 Joan Gracia 219176 <br>
 Pere Fraga 217065 <br>
 Josep Ricci 217020 <br>
+
+# Results
+![](DATA/Results/Image1.png)
+![](DATA/Results/Image3.png)
+
